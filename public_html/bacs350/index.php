@@ -6,11 +6,11 @@
 
     $site_title = 'UNC BACS 350';
     
-    $page_title = "Mark's Brain";
+    $page_title = "Caleb Leonard";
     
     $content = '
         <p>
-            <a href="..">Home</a>
+            <a href="https://www.findingfocusministries.com/">Home</a>
         </p>
         <p> 
             This page is the beginning of an ongoing project in BACS 350.
