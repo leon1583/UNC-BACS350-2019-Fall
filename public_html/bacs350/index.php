@@ -4,16 +4,16 @@
         Create page content by rendering a template.
     */
 
-    $site_title = 'UNC BACS 350';
+    $site_title = 'Caleb Leonard (UNC BACS 350)';
     
-    $page_title = "Caleb Leonard";
+    $page_title = "Caleb's Incomplete Page";
     
     $content = '
         <p>
             <a href="https://www.findingfocusministries.com/">Home</a>
         </p>
         <p> 
-            This page is the beginning of an ongoing project in BACS 350.
+            This page is the beginning of an ongoing project in BACS 350. This is not as complete as I would like it to be. Check back later for development!
         </p>
         <p> 
             It is a custom information manager.
